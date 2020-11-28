@@ -7,7 +7,7 @@ const EditarProducto = () => {
         <div className="card">
           <div className="card-body">
             <h2 className="text-center mb-4 font-weight-bold">
-              Agregar Nuevo Producto
+              Editar Producto
             </h2>
             <form>
               <div className="form-group">
@@ -28,7 +28,7 @@ const EditarProducto = () => {
                   type="submit"
                   className="btn btn-primary font-weight-bold text-uppercase d-block w-100"
                 >
-                  Guardar Cambios
+                  Guardar
                 </button>
               </div>
             </form>
