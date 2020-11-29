@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 
-////////ver video 301//////
-
 //actions de redux
 import { crearNuevoProductoAction } from "../actions/productoActions";
 
